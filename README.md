@@ -23,3 +23,10 @@ Bet on a turtle, watch them race, and see if your guess was right! 🎉
 ### Run the game
 ```bash
 python turtle_race.py
+```
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="assets/turtle_race.gif" alt="Turtle Race Demo" width="500"/>
+</p>
