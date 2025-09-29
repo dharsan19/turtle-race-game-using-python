@@ -19,6 +19,7 @@ Bet on a turtle, watch them race, and see if your guess was right! 🎉
 ### Prerequisites
 - Python 3.13.7 installed  
 - `turtle` library (comes with Python by default)
+- `random` library (comes with Python by default)
 
 ### Run the game
 ```bash
