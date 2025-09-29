@@ -10,6 +10,7 @@ is_game_on = False
 all_turtles = []
 colors = ["red", "blue", "green", "orange", "purple", "cyan"]
 
+#loop to create turtles
 for i in range(6):
     new_turtle = Turtle(shape="turtle")
     new_turtle.penup()
